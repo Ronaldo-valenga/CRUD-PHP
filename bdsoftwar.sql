@@ -46,9 +46,6 @@ CREATE TABLE `usuario` (
 -- Extraindo dados da tabela `usuario`
 --
 
-INSERT INTO `usuario` (`id`, `nome`, `email`, `senha`, `data_nascimento`, `cidade`, `uf`, `observacao`, `ativo`) VALUES
-(24, 'dsds', 'ronaldovalenga95@gmail.com', 'dsds', '2020-07-23', 'Curitiba', 'PR', ' \r\n    \r\n  dsds  dsds', 1);
-
 --
 -- Indexes for dumped tables
 --
